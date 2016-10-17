@@ -1,6 +1,6 @@
 #include <SPI.h>
 #include <Ethernet.h>
-#include <C:\Users\Utilizador135\Desktop\httppost2\Max6675.h>
+#include <C:\Users\Utilizador135\Desktop\httppost2\ArduinoBot\httppost2\Max6675.h>
 
 byte mac[] = {  
   0x90, 0xA2, 0xDA, 0x0D, 0x11, 0xF7 };
