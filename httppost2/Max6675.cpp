@@ -1,20 +1,3 @@
-/*
- * Max6675.cpp
- *
- * Arduino Library of Max6675 Cold-Junction-Compensated K-Thermocouple-
- * to-Digital Converter (0°C to +1024°C)
- *
- * Max6675 official page: http://www.maximintegrated.com/datasheet/index.mvp/id/3149
- *
- * author: Weihong Guan (@aGuegu)
- * host on: https://github.com/aguegu/Arduino/tree/master/libraries/Max6675
- * e-mail: weihong.guan@gmail.com
- * created on: 2012-8-6
- * update on: 2011-12-03
- *
- * module designer: syyyd.com
- */
-
 #include "Max6675.h"
 
 Max6675::Max6675(uint8_t pin_so, uint8_t pin_cs, uint8_t pin_clk, int offset) :
